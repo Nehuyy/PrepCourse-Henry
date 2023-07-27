@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un del PrepCourse de Henry
+Este es un repositorio del PrepCourse de Henry
